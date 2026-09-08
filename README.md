@@ -1,6 +1,3 @@
-# credit-card-customer-behavior-analysis
-My first interactive Power BI dashboard analyzing credit card customer behavior, spending patterns, credit utilization, payments, and customer insights.
-
 📌 Project Overview
 
 This project analyzes credit card customer behavior using Power BI. The goal is to explore customer spending patterns, credit behavior, payment performance, and customer insights.
